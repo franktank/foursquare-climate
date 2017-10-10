@@ -1,13 +1,11 @@
 foursquare-climate
 ====================
 
-foursquare-climate is used for recommendation of venues based on weather condition.
+foursquare-climate is a recommendation system that predicts desired venues based on weather conditions.
 
-
-Data obtained from:
-
+### Check-in Data:
 https://sites.google.com/site/yangdingqi/home/foursquare-dataset
-
+### Historical Climate Data:
 https://www.ncdc.noaa.gov/cdo-web/
 
 
